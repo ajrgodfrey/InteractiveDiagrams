@@ -4,6 +4,8 @@
 *.bat
 *.html
 *.lnk
+*.log
 *.pdf
+*.tex
 *.url
 docs

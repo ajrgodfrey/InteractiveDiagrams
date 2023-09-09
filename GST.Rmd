@@ -1,6 +1,6 @@
 ---
 title: " Support for Interactive Exploration of Multi-layered Graphics "
-date: "  "
+date: " September 8 2023 "
 abstract: >
   Creation of graphics with multiple layers of information is  increasingly common due to the strong uptake of ggplot style graphics. The continued use of raister images is however a limitation on the ability to add interactivity. We show that using scalable vector graphics as a medium provides an opportunity to embed self-voicing interactivity which will assist print-disabled users and could add value in educational settings. N.B. This article is interactive; the pdf format used by most journals is not useful; the R journal's move to HTML has created an opportunity to present this work.
 draft: true

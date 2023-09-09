@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+*.bat
+*.html
+*.lnk
+*.pdf
+*.url
+docs
